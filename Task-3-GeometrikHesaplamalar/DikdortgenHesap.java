@@ -1,8 +1,8 @@
 public class DikdortgenHesap {
     static void main(String[] args) {
         //Atanan değerler
-        int kısaKenar = 10;
-        int uzunKenar = 20;
+        int kısaKenar = 4.5;
+        int uzunKenar = 7.9;
 
 
         //Çevre hesaplama
@@ -15,3 +15,4 @@ public class DikdortgenHesap {
         System.out.println("Dikdörtgenin alanı : " + alan);
     }
 }
+
