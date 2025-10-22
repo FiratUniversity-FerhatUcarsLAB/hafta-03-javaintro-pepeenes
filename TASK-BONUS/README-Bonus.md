@@ -1,2 +1,4 @@
 ÖĞRENCİ NO = 250541075
+
 ÖĞRENCİ AD-SOYAD = Enes PEPE
+
